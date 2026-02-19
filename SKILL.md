@@ -3,8 +3,8 @@ name: five-ways-analysis
 description: Systematically demonstrate arguments for God's existence through five distinct rational proofs examining features of the natural world. Each argument begins from observable phenomena and concludes ...
 license: MIT
 metadata:
-  version: 1.0.4015
   author: sethmblack
+  version: 1.0.4016
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - five-ways-analysis
